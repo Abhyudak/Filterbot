@@ -7,10 +7,7 @@ Very Simple Auto Filter bot
 
 
 
-
-[![Deploy]([https://telegra.ph/file/d053a8e9ef4ed93df38a0.jpg](https://telegra.ph/file/3afe3833377f14e419483.jpg))](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=Y2NhZG1pbjEvTW92aWUtQm90IG1hc3Rlcg)
-<a href="https://heroku.com/deploy?template=https://github.com/Abhyudak/Filterbot"><img
-                                                                                        
+[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://heroku.com/deploy?template=https://github.com/Abhyudak/Filterbot)                                                    
 ## Features
 
 - [x] Auto Filter
