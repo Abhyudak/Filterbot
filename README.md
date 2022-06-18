@@ -107,4 +107,13 @@ python3 bot.py
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * Original [Repo](https://github.com/EvamariaTG/EvaMaria)
-🥷 ›› [Dhamu](https://t.me/AkLucasHood)                                                                                                                                        
+🥷 ›› 
+## Support
+Contact Me On [Telegram](https://t.me/AkLucasHood)
+
+[Update Channel](https://t.me/Ak_Movie_Updatez)
+
+## License
+Code released under [The GNU General Public License](LICENSE).
+## credit 🤠
+https://t.me/ToxicBoymX
