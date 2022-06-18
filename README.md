@@ -106,9 +106,9 @@ python3 bot.py
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * Original [Repo](https://github.com/EvamariaTG/EvaMaria)
-* PARTNERS [🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicBoymX)
+* PARTNERS [🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicboymX)
            [🅂🄷🄰🄳🄸 🅑🅐🅓🅢🅗🅐](https://t.me/+917510639757)
-           [🄳🄷🄰🄽🅄🅂🄷 🅜🅒](https://t.me/+919778580438)
+           [🄳🄷🄰🄽🅄🅂🄷 🅜🅒](https://t.me/D_M_C01)
           
 ## Support
 Contact Me On [Telegram](https://t.me/AkLucasHood)
@@ -118,5 +118,5 @@ Contact Me On [Telegram](https://t.me/AkLucasHood)
 ## License
 Code released under [The GNU General Public License V2](LICENSE).
 ## credit 🤠
-[🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicBoymX)
+[🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicboymX)
 
