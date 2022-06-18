@@ -1,6 +1,5 @@
 # Filterbot
-# Movie Bot
-Very Simple Auto Filter bot
+Very Simple 𝙰𝙺'𝚜  𝙰𝚞𝚝𝚘  𝙵𝚒𝚕𝚝𝚎𝚛𝙱𝚘𝚝
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+𝐀𝐤-𝐅𝐢𝐥𝐭𝐞𝐫-𝐁𝐨𝐭!;created+by+ⓃⒶⓇⓊⓉⓄ!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+features!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
@@ -114,6 +113,6 @@ Contact Me On [Telegram](https://t.me/AkLucasHood)
 [Update Channel](https://t.me/Ak_Movie_Updatez)
 
 ## License
-Code released under [The GNU General Public License](LICENSE).
+Code released under [The GNU General Public License V2](LICENSE).
 ## credit 🤠
 https://t.me/ToxicBoymX
