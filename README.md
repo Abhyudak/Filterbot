@@ -113,7 +113,7 @@ python3 bot.py
 ## Support
 Contact Me On [Telegram](https://t.me/AkLucasHood)
 
-[Updatez Channel](https://t.me/Ak_Movie_Updatez)
+[Updatez Channel](https://t.me/Ak_Updates_botz)
 
 ## License
 Code released under [The GNU General Public License V2](LICENSE).
