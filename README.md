@@ -107,9 +107,8 @@ python3 bot.py
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * Original [Repo](https://github.com/EvamariaTG/EvaMaria)
 * PARTNERS [🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicBoymX)
-* 
+
            [🅂🄷🄰🄳🄸 🅑🅐🅓🅢🅗🅐](https://t.me/+917510639757)
-           
            [🄳🄷🄰🄽🅄🅂🄷 🅜🅒](https://t.me/+919778580438)
           
 ## Support
