@@ -1,6 +1,6 @@
 # Filterbot
-Very Simple 𝙰𝙺'𝚜  𝙰𝚞𝚝𝚘  𝙵𝚒𝚕𝚝𝚎𝚛𝙱𝚘𝚝
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+𝐀𝐤-𝐅𝐢𝐥𝐭𝐞𝐫-𝐁𝐨𝐭!;created+by+ⓃⒶⓇⓊⓉⓄ!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+features!)
+Very Simple 𝐀𝐊 𝐀ᴜᴛᴏ 𝐅ɪʟᴛᴇʀ𝐁ᴏᴛ
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+𝐀𝐊-𝐀ᴜᴛᴏ-𝐅ɪʟᴛᴇʀ𝐁ᴏᴛ!;created+by+🅝🅐🅡🅤🅣🅞!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+features!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
@@ -106,7 +106,9 @@ python3 bot.py
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * Original [Repo](https://github.com/EvamariaTG/EvaMaria)
-🥷 ›› 
+🥷 ›› PARTNERS [🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicBoymX)
+              [🅂🄷🄰🄳🄸 🅑🅐🅓🅢🅗🅐](https://t.me/+917510639757)
+              [🄳🄷🄰🄽🅄🅂🄷 🅜🅒](https://t.me/+919778580438)
 ## Support
 Contact Me On [Telegram](https://t.me/AkLucasHood)
 
@@ -115,4 +117,5 @@ Contact Me On [Telegram](https://t.me/AkLucasHood)
 ## License
 Code released under [The GNU General Public License V2](LICENSE).
 ## credit 🤠
-https://t.me/ToxicBoymX
+[🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊️⃟࿐](https://t.me/ToxicBoymX)
+
