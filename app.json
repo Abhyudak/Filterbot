@@ -2,7 +2,7 @@
 {
     "name": "NARUTO",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "stack": "heroku-22",
+    "stack": "heroku-20",
     "logo": "https://telegra.ph/file/3afe3833377f14e419483.jpg",
     "keywords": [
       "telegram",
